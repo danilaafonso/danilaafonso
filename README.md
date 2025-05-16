@@ -1,43 +1,49 @@
-# 👋 Olá! Eu sou Danila
+# 👩‍💻 Olá! Eu sou Danila Alves
 
-Bem-vindo ao meu perfil no GitHub! Estou em transição de carreira para **Tecnologia da Informação**, com 12 anos de experiência em **Farmácia Clínica** e uma especialização em **Saúde Neonatal**. Minha trajetória combina uma forte base em saúde com novas habilidades em tecnologia e análise de dados, e estou determinada a transformar dados em insights valiosos para tomada de decisões estratégicas.
+Bem-vindo(a) ao meu GitHub! Aqui você encontrará projetos, estudos e soluções focadas em **Engenharia de Dados**, **Análise de Dados** e **Inteligência Artificial**, com aplicações em ambientes reais utilizando tecnologias modernas.
 
 ---
 
 ## 🚀 Sobre Mim
 
-- 🌱 Atualmente aprimorando minhas habilidades em **Power Platform**, **Big Data**, **Data Analytics**, **Azure**, **AWS**, **Python**, **SQL** e **JAVA**.
-- 🏆 Participei de diversos programas de mentoria para mulheres na tecnologia, onde aprendi sobre **Cloud Computing**, **Git**, **GitHub**, **Inteligência Artificial**, **Machine Learning** e **Power Platform**.
-- 🎯 Busco uma posição júnior em **Análise de Dados, Big Data, Ciência de Dados** com foco em **IA** para integrar squads digitais inovadores.
-- 👩‍🏫 Apaixonada pelo aprendizado contínuo, sempre buscando maneiras de expandir minhas habilidades e contribuir para o crescimento das mulheres na TI.
+- 💼 **Jr Engineer Technology**, atuando com tecnologias de dados e cloud.
+- 📊 Experiência prática em projetos com **Databricks**, **Azure Data Lake**, **Spark**, **Delta Lake**, **Power BI**, e **Data Engineering pipelines**.
+- 🌐 Formação em **Power Platform**, **Big Data**, **Data Analytics**, **Cloud (Azure e AWS)**.
+- 👩‍💻 Conhecimentos aplicados em **Python**, **SQL**, **Git/GitHub**, **Docker**, e **modelagem de dados**.
+- 🤝 Participação em squads multidisciplinares, com foco em inovação, entrega contínua e boas práticas de desenvolvimento de dados.
 
 ---
 
-## 💼 Experiências e Projetos Acadêmicos
+## 💡 Projetos e Atividades Técnicas
 
-Aqui estão alguns dos projetos que desenvolvi durante meu aprendizado e mentoria:
+- **Projeto de Arquitetura de Dados com Azure e Databricks**  
+  - Construção de pipelines de ingestão e transformação usando Spark, PySpark e Delta Lake.
+  - Integração com ADLS Gen2, camadas Raw/Bronze/SilverGold, versionamento no GitHub e visualização em Power BI.
+  - 💻 **Tecnologias**: Azure, Databricks, Spark, Delta Lake, Power BI, Git, Python.
 
-- **Dashboards em Power BI**  
-   - Desenvolvi dashboards analíticos durante meus cursos no SENAI A. Jacob Lafer, explorando diversas áreas como vendas, saúde e desempenho financeiro.
-   - **Tecnologias Usadas**: Power BI, DAX, Excel.
+- **Dashboards Interativos em Power BI**  
+  - Desenvolvimento de dashboards analíticos utilizando modelagem relacional, DAX, e boas práticas de visualização.
+  - 📈 **Temas abordados**: dados eleitorais, saúde, vendas e indicadores de desempenho.
+  - 💻 **Tecnologias**: Power BI, Excel, DAX, SQL.
 
-- **Análise de Dados com Python e SQL**  
-   - Realizei análises de conjuntos de dados públicos para obter insights valiosos sobre saúde e finanças.
-   - **Tecnologias Usadas**: Python, SQL, statistics, pandas, math, seaborn, matplotlib, datetime, 
-random, json, sklearn.
-- **Automação de Processos**  
-   - Criei automações com **Power Automate** para simplificar processos manuais e melhorar a eficiência operacional.
-   - **Tecnologias Usadas**: Power Apps, Power Automate.
+- **Machine Learning com Python**  
+  - Análises exploratórias e preditivas em datasets públicos com técnicas de regressão, classificação e clustering.
+  - 💻 **Tecnologias**: pandas, matplotlib, seaborn, sklearn, numpy, datetime.
+
+- **Automação de Processos com Power Platform**  
+  - Criação de aplicativos e fluxos automatizados para ganho de eficiência e produtividade.
+  - 💻 **Tecnologias**: Power Apps, Power Automate.
 
 ---
 
 ## 🛠️ Habilidades Técnicas
 
-- **Linguagens de Programação:** Python, SQL, JAVA (em andamento)
-- **Análise e Visualização de Dados:** Power BI, Excel, Git/GitHub
-- **Cloud Computing:** Azure, AWS
+- **Linguagens de Programação:** Python, SQL, Java (em evolução)
+- **Ferramentas e Bibliotecas de Dados:** Pandas, NumPy, Seaborn, Scikit-learn, Matplotlib
+- **Data Engineering:** Spark, Delta Lake, PySpark, Databricks, Azure Data Lake, Docker
+- **BI e Visualização:** Power BI, Excel, DAX, Star Schema, Snowflake Schema
+- **Cloud & DevOps:** Azure, AWS, Git, GitHub, Gitflow
 - **Low-Code/No-Code:** Power Apps, Power Automate
-- **Ferramentas de IA e ML:** IA Generativa, Processamento de Linguagem Natural (NLP)
 
 ---
 
@@ -47,12 +53,12 @@ random, json, sklearn.
 
 ---
 
-## 📫 Vamos nos Conectar
+## 🤝 Vamos nos Conectar
 
-- **LinkedIn:** [Danila Afonso](https://www.linkedin.com/in/danilaafonso/)
-- **E-mail:** (danilaafonso@hotmail.com)
+- 💼 **LinkedIn:** [Danila Afonso](https://www.linkedin.com/in/danilaafonso/)
+- 📧 **E-mail:** danilaafonso@hotmail.com
 
 ---
 
-### Obrigada por visitar meu perfil! Vamos nos conectar e colaborar em projetos incríveis!
+### Obrigada pela visita! Sinta-se à vontade para explorar meus repositórios e contribuir. 🚀
 
